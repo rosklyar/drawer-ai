@@ -1,4 +1,4 @@
-# Pdf schme vertical and horizontal walls parser
+# Pdf scheme vertical and horizontal walls parser
 
 This is a simple parser which takes a pdf file as input and outputs a pdf file with the walls drawn on it.
 It also has an issue right now with searching 'gray filled' walls due to strange behaviour of pdf2svg converter(but I hope to fix it soon). 
